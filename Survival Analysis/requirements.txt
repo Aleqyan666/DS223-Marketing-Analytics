@@ -1,0 +1,12 @@
+
+pandas
+numpy
+matplotlib
+seaborn
+lifelines
+scikit-learn
+jupyter
+scipy
+weasyprint
+nbconvert
+nbformat
